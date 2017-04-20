@@ -8,7 +8,7 @@
 
 
 <tr>
-<th>Robots.txt Test	</th>
+
 
 <th> meta description</th>
 
