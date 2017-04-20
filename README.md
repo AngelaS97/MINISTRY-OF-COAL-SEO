@@ -33,9 +33,7 @@ document to structure the content. By using Heading Tags, we differentiate our w
 page content.The six heading elements, H1 through H6, denote section headings. 
 
 </td>
-<td> No Heading is found. <b><u>Suggested</u></b>---Ministry of water 
-
-resource</td>
+<td> No Heading is found. <b><u>Suggested</u></b>---Ministry of coal</td>
 
 <br>
 </tr>
