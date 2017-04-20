@@ -1,13 +1,14 @@
 # MINISTRY-OF COAL
 <html>
-
 <body>
 <table>
 <font size=5>
 <table border=5 > 
-<tr><th> FAULT 
+<tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</tr>
 
-<th>DESCRIPTION<th>SUGGESTION</tr>
+
+<tr>
+<th>Robots.txt Test	</th>
 
 <th> meta description</th>
 
