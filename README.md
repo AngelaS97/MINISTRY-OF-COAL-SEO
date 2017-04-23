@@ -26,11 +26,19 @@ summarizes a page's content. Search engines show the meta description in search
 
 results mostly when the searched for phrase is contained in the description. 
 
-Optimizing the meta description is a very important aspect of on-page SEO. <td>
+Optimizing the meta description is a very important aspect of on-page SEO. </td>
 <td>The meta description for this website should be only upto 160 
 
 characters.</td>
-<td>Meta description tags, while not important to search engine rankings, are extremely important in gaining user click-through from SERPs. These short paragraphs are a webmaster's opportunity to advertise content to searchers and to let them know exactly whether the given page contains the information they're looking for.
+<td>Meta description tags, while not important to search engine rankings, are extremely important in gaining user click-through from SERPs. These short paragraphs are a webmaster's opportunity to advertise content to searchers and to let them know exactly whether the given page contains the information they're looking for.</td>
+<td>1-It should be actionable, in an active voice.
+2-It should include a call-to-action.
+3-It could contain structured content.
+4-It should match the content.
+5-The meta description should be unique.
+6-It should contain the focus keyword.
+7-It should be around 135 to 160 characters.
+ </td>
 <br>
 </tr>
 
