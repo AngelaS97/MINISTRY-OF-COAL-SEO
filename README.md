@@ -4,7 +4,7 @@
 <table>
 <font size=5>
 <table border=5 > 
-<tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</tr>
+<tr><th> FAULT <th>DESCRIPTION<th>USAGE/IMPORTANCE<th><th>SUGGESTION<th></tr>
 
 
 <tr>
@@ -22,6 +22,7 @@ Optimizing the meta description is a very important aspect of on-page SEO. <td>
 <td>The meta description for this website should be only upto 160 
 
 characters.</td>
+<td>Meta description tags, while not important to search engine rankings, are extremely important in gaining user click-through from SERPs. These short paragraphs are a webmaster's opportunity to advertise content to searchers and to let them know exactly whether the given page contains the information they're looking for.
 <br>
 </tr>
 
@@ -35,6 +36,7 @@ page content.The six heading elements, H1 through H6, denote section headings.
 
 </td>
 <td> No Heading is found. <b><u>Suggested</u></b>---Ministry of coal</td>
+<td> While keyword prominence is still an important ranking factor, whether it is within the H1 or simply highlighted at the top of the page, there is another level to the effect of the H1 tag on organic search performance. A page's ability to effectively engage users is another way Google organizes its search results.</td>
 
 <br>
 </tr>
@@ -54,7 +56,13 @@ processed or scanned.</td>
 
 specifies how to inform the web robot about which areas of the website should not 
 
-be processed or scanned. </td><br>
+be processed or scanned. </td>
+<td>Your Robots.txt file is what tells the search engines which pages to access and index on your website on which pages not to.
+
+For example, if you specify in your Robots.txt file that you don’t want the search engines to be able to access your thank you page, that page won’t be able to show up in the search results and web users won’t be able to find it.
+
+Keeping the search engines from accessing certain pages on your site is essential for both the privacy of your site and for your SEO.</td>
+<br>
 </tr>
 
 <tr>
@@ -70,7 +78,14 @@ possible, as they make URLs less inviting for users to click or share.</td>
 
 URL of the website is not SEO friendly.The URL should contain keywords relevant to 
 
-the page's topic, and contain no spaces, underscores or other characters.</td><br>
+the page's topic, and contain no spaces, underscores or other characters.</td>
+<td>Clearly the friendly URL has the advantage. URLs are not a large ranking factor in and of themselves, but there are two additional effects to consider:
+
+1. Friendly URLs affect CTR. Many users will examine a URL when deciding whether to click through or not.
+
+2. Friendly URLs improve anchor text link juice flow. If your page URL is /watches then any links where the referring site simply copies your URL will have your product name (watches) in the URL.</td>
+
+<br>
 </tr>
 
 
@@ -99,6 +114,14 @@ top end of the Domain Authority scale.</td>
 number of high-quality links to gain a good domain authority and be at the top end 
 
 of the DA scale</td>
+<td>Domain authority is a measure of the power of a domain name and is one of many search engine ranking factors.
+Domain Authority metrics are incorporated into dozens of SEO and online marketing platforms across the web.
+
+SEO gurus Moz can be credited with the metric known as DA or domain authority. 
+
+Moz’s own search algorithm gauges the quality of any given site based on a huge complex combination of factors including onsite and offsite, taking into account things such as diversity of Backlinking domains to come up with a score between 0 and 100. A brand new site, for example, will have 0 whereas a very high authority site might have 80/100.
+
+It is a measure of the power of a domain name and is one of many search engine ranking factors. Domain authority is based on three factors: Age, Popularity, and Size. </td>
 </tr>
 
 <tr>
@@ -123,7 +146,12 @@ or "bad" Page Authority score.
 
 and important link profiles than others and will thus, gain a good page authority. 
 
-</td><br>
+</td>
+<td>PA defines the links that you are getting on that particular page and this varies from one URL to another of the same domain.
+How is Page Authority scored?
+We score Page Authority on a 100-point logarithmic scale. Thus, it's significantly easier to grow your score from 20 to 30 than it is to grow from 70 to 80. We constantly update the algorithm used to calculate Page Authority, so you may see your score fluctuate from time to time.
+t's best used as a comparative metric (rather than an absolute, concrete score) when doing research in the search results and determining which pages may have more powerful or important link profiles than others. Because it's a comparative tool, there isn't necessarily a "good" or "bad" Page Authority score.
+ For increase in PA you have to increase the links on that particular page.<br>
 </tr>
 
 
@@ -138,6 +166,15 @@ need to know which type of redirection is used to their site.</td>
 <td>The website 
 
 should have a redirect checker to regulate redirections</td>
+<td>For what seems like forever, SEOs have operated by a set of best practices that dictate how to best handle redirection of URLs. (This is the practice of pointing one URL to another. If you need a quick refresher, here’s a handy guide on HTTP status codes.)
+
+These tried and true old-school rules included:
+
+301 redirects result in around a 15% loss of PageRank. Matt Cutts confirmed this in 2013 when he explained that a 301 loses the exact same amount of PageRank as a link from one page to another.
+302s don’t pass PageRank. By definition, 302s are temporary. So it makes sense for search engines to treat them different.
+HTTPS migrations lose PageRank. This is because they typically involve lots of 301 redirects.
+These represent big concerns for anyone who wants to change a URL, deal with an expired product page, or move an entire website.
+</td>
 <br>
 </tr>
 
@@ -152,7 +189,9 @@ CSS files.</td>
 
 page size of 33 Kb.This leads to a slower page loading time than average.Lowerind 
 
-the size of the page is reckoned.</td><br>
+the size of the page is reckoned.</td>
+<td>Web page size is an important factor in determining how well optimized your site is. Search engines like MSN, Yahoo and Google are considering load time to be more and more important when it comes to both search engine optimization and PPC quality scores, and file size certainly effects your website’s load time. However, many web developers have a hard time determining which page sizes and file sizes are ideal for making sure that their website loads quickly. In this article, we’ll be looking at some data which has been gathered about the average size of HTML web pages, image files and other components of a website. This will help web developers to determine a solid guideline for their page sizes and file sizes.
+</td><br>
 </tr>
 
 
@@ -167,8 +206,14 @@ Compression allows your web server to provide smaller file sizes which load fast
 for your website users. Enabling gzip compression is a standard practice.</td>
 <td> 
 
-It is recommended to use html compression e-g: gzip compression</td><br>
-</tr>
+It is recommended to use html compression e-g: gzip compression</td>
+<td>What is Gzip compression?
+Gzip is a method of compressing files (making them smaller) for faster network transfers.
+It is also a file format.
+Compression allows your web server to provide smaller file sizes which load faster for your website users. </td><br>
+Compression is a simple, effective way to save bandwidth and speed up your site. I hesitated when recommending gzip compression when speeding up your javascript because of problems in older browser.
+<b><i>How To Optimize Your Site With GZIP Compression:-</i></b>
+https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/</tr>
 
 
 
