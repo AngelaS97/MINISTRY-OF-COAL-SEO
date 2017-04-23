@@ -1,4 +1,10 @@
 # MINISTRY-OF COAL
+
+<b><i><U>WHAT IS SEARCH ENGINE OPTIMISATION?</U></i></b>
+
+Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results—often referred to as "natural", "organic", or "earned" results. In general, the earlier (or higher ranked on the search results page), and more frequently a site appears in the search results list, the more visitors it will receive from the search engine's users; these visitors can then be converted into customers.[1] SEO may target different kinds of search, including image search, local search, video search, academic search,[2] news search, and industry-specific vertical search engines.
+
+As an Internet marketing strategy, SEO considers how search engines work, what people search for, the actual search terms or keywords typed into search engines and which search engines are preferred by their targeted audience. Optimizing a website may involve editing its content, HTML, and associated coding to both increase its relevance to specific keywords and to remove barriers to the indexing activities of search engines. Promoting a site to increase the number of backlinks, or inbound links, is another SEO tacHERE IS AN EXAMPLE OF SEO DONE ON A GOVERNMENT WEBSITE- MINISTRY OF COAL
 <html>
 <body>
 <table>
@@ -209,11 +215,12 @@ for your website users. Enabling gzip compression is a standard practice.</td>
 It is recommended to use html compression e-g: gzip compression</td>
 <td>What is Gzip compression?
 Gzip is a method of compressing files (making them smaller) for faster network transfers.
-It is also a file format.
-Compression allows your web server to provide smaller file sizes which load faster for your website users. </td><br>
-Compression is a simple, effective way to save bandwidth and speed up your site. I hesitated when recommending gzip compression when speeding up your javascript because of problems in older browser.
+It is also a file format.Compression allows your web server to provide smaller file sizes which load faster for your website users. </td>
+
+<td>Compression is a simple, effective way to save bandwidth and speed up your site. 
 <b><i>How To Optimize Your Site With GZIP Compression:-</i></b>
-https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/</tr>
+https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/</td><br>
+</tr>
 
 
 
